@@ -1,9 +1,13 @@
 /* CSS Page-1 */
+*{
+    box-sizing: border-box;
+}
 body{
     margin: 0;
     background-color: rgb(25, 20, 20);
     font-family: 'Poppins', sans-serif;
     font-weight: 300 500 700;
+    padding: 0;
 }
 nav {
     background-color: inherit;
